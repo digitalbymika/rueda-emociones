@@ -1,5 +1,5 @@
 // Cambia la versión al publicar cambios para forzar una caché limpia
-const CACHE = 'rueda-emociones-v2';
+const CACHE = 'rueda-emociones-v3';
 
 const ASSETS = [
   './',

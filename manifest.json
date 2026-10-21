@@ -1,6 +1,6 @@
 {
-  "name": "Rueda de emociones",
-  "short_name": "Emociones",
+  "name": "¿Qué siento?",
+  "short_name": "¿Qué siento?",
   "description": "Identifica lo que sientes con la rueda de las emociones.",
   "lang": "es",
   "start_url": "./",
