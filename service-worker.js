@@ -1,5 +1,5 @@
 // Cambia la versión al publicar cambios para forzar una caché limpia
-const CACHE = 'rueda-emociones-v1';
+const CACHE = 'rueda-emociones-v2';
 
 const ASSETS = [
   './',
@@ -8,10 +8,10 @@ const ASSETS = [
   'app.js',
   'emotions.js',
   'manifest.json',
-  'icons/apple-touch-icon.png',
-  'icons/icon-192.png',
-  'icons/icon-512.png',
-  'icons/icon-maskable-512.png',
+  'apple-touch-icon.png',
+  'icon-192.png',
+  'icon-512.png',
+  'icon-maskable-512.png',
 ];
 
 self.addEventListener('install', (event) => {
